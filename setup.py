@@ -3,7 +3,7 @@
 from setuptools import setup
 
 # Paquetes de Python necesarios
-requirements = ['flask', 'flask-restx']
+requirements = ['Flask==1.1.2', 'flask-restx']
 
 
 setup(
